@@ -1,0 +1,21 @@
+table, th, td, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    min-width: 80%;
+    margin: auto;
+    font-size: 1em;
+    padding: 10px;
+}
+td{
+    text-align: center;
+}
+img{
+    text-align: center;
+    width: 40%;
+}
+th{
+    width: 30%;
+}
+th{
+    background-color: beige;
+}
