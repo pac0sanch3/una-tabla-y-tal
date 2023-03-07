@@ -1,0 +1,1 @@
+alert("Espisificaciones hardware y software")
