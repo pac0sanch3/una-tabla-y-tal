@@ -11,7 +11,7 @@
 <body>
     <table style="width: 100%;">
       <tr>
-          <td><h1>FORMATO DE FICHA TECNICA</h1></td>
+          <td><h1>Reponsable(coordinador encargado)</h1><input id="responsable" type="text" placeholder="coordinador encargado"></td>
           <td><img src="img/Imagen1.png"></td>
       </tr>
     </table>
@@ -22,7 +22,7 @@
         </tr>
         <tr>
             <th><b>NOMBRE DEL PRODUCTO</b></th>
-            <td colspan="2"></td>
+            <td colspan="2"><input id="producto" type="text" placeholder="producto"></td>
         </tr>
         <tr>
             <th><b>LINEA DE PRODUCCION</b></th>
@@ -142,5 +142,12 @@
             <td></td>
         </tr>
     </table>
+    <button onclick="comprobar()">Enviar</button>
+    <br>
+    <br>
+    <p id="respuesta1"></p>
+    <br>
+    <p id="respuesta2"></p>
+    <br>
 </body>
 </html>
