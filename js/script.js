@@ -78,45 +78,45 @@ function comprobar(){
 
     let otros1
     otros1=document.getElementById("otros1").value
-    document.getElementById("respuesta21").innerHTML="<h3> nombre del producto:"+otros1+"</h3>"
+    document.getElementById("respuesta21").innerHTML="<h3> otros requerimientos del cliente:"+otros1+"</h3>"
 
     let primera_version
     primera_version=document.getElementById("primera version").value
-    document.getElementById("respuesta22").innerHTML="<h3> nombre del producto:"+primera_version+"</h3>"
+    document.getElementById("respuesta22").innerHTML="<h3> primera version:"+primera_version+"</h3>"
 
     let primer_cambio
     primer_cambio=document.getElementById("primer cambio").value
-    document.getElementById("respuesta23").innerHTML="<h3> nombre del producto:"+primer_cambio+"</h3>"
+    document.getElementById("respuesta23").innerHTML="<h3> primer cambio:"+primer_cambio+"</h3>"
 
     let primera_aprobacion
     primera_aprobacion=document.getElementById("primera aprobacion").value
-    document.getElementById("respuesta24").innerHTML="<h3> nombre del producto:"+primera_aprobacion+"</h3>"
+    document.getElementById("respuesta24").innerHTML="<h3> primera aprobacion:"+primera_aprobacion+"</h3>"
 
     let primera_validacion
     primera_validacion=document.getElementById("primera validacion").value
-    document.getElementById("respuesta24").innerHTML="<h3> nombre del producto:"+primera_validacion+"</h3>"
+    document.getElementById("respuesta24").innerHTML="<h3> primera validacio:"+primera_validacion+"</h3>"
 
     let segunda_version
     segunda_version=document.getElementById("segunda version").value
-    document.getElementById("respuesta25").innerHTML="<h3> nombre del producto:"+segunda_version+"</h3>"
+    document.getElementById("respuesta25").innerHTML="<h3> segunda version:"+segunda_version+"</h3>"
 
     let segundo_cambio
     segundo_cambio=document.getElementById("segundo cambio").value
-    document.getElementById("respuesta26").innerHTML="<h3> nombre del producto:"+segundo_cambio+"</h3>"
+    document.getElementById("respuesta26").innerHTML="<h3> segundo cambio:"+segundo_cambio+"</h3>"
 
     let segunda_aprobacion
     segunda_aprobacion=document.getElementById("segunda aprobacion").value
-    document.getElementById("respuesta27").innerHTML="<h3> nombre del producto:"+segunda_aprobacion+"</h3>"
+    document.getElementById("respuesta27").innerHTML="<h3>seguna aprobacion:"+segunda_aprobacion+"</h3>"
 
     let segunda_validacion
     segunda_validacion=document.getElementById("segunda_validacion").value
-    document.getElementById("respuesta28").innerHTML="<h3> nombre del producto:"+segunda_validacion+"</h3>"
+    document.getElementById("respuesta28").innerHTML="<h3> segunda validacion:"+segunda_validacion+"</h3>"
 
     let firma1
     firma1=document.getElementById("firma1").value
-    document.getElementById("respuesta29").innerHTML="<h3> primera firma:"+firma1+"</h3>"
+    document.getElementById("respuesta29").innerHTML="<h3> firma:"+firma1+"</h3>"
 
     let firma2
     firma2=document.getElementById("firma2").value
-    document.getElementById("respuesta30").innerHTML="<h3> segunda firma:"+firma2+"</h3>"
+    document.getElementById("respuesta30").innerHTML="<h3> firma:"+firma2+"</h3>"
 }

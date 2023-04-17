@@ -17,5 +17,15 @@ th{
     width: 30%;
 }
 th{
-    background-color: rgb(102, 102, 96);
+    background-color: salmon;
+}
+p{
+    text-align: center;
+    line-height: 2em;
+}
+body{
+    font-family: sans-serif;
+}
+.table1{
+   min-width: 40%;
 }
